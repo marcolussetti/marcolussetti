@@ -10,12 +10,12 @@ You can find out more about me at [marcolussetti.com](https://marcolussetti.com)
 - [extended-medgan](https://github.com/marcolussetti/extended-medgan): extension of prior work on generating synthetic patient records via GANNs. Work supervised by & co-authored by Piper Jackson
 - [simplemnistneuralnetwork](https://github.com/marcolussetti/simplemnistneuralnetwork), [simpleneuralenets](https://github.com/marcolussetti/simpleneuralnets), [mnist_tools](https://github.com/marcolussetti/mnist_tools): projects showcasing a dead simple neural network implementation in the Nim programming language
 
-:books: What am I reading/studying lately?
-
-- Red Hat Certified System Administrator course by Sander van Vugt
-- Let’s Go (Go Web Development book) by Alex Edwards
-
 :gear: What am I working on?
 
 - Telephone Pictionary / Broken Picture Telephone remake (personal project)
 - General purpose Hidden Roles (Mafia/Werewolf-style) game engine
+
+:books: What am I reading/studying lately?
+
+- Red Hat Certified System Administrator course by Sander van Vugt
+- Let’s Go (Go Web Development book) by Alex Edwards
