@@ -10,7 +10,7 @@ You can find out more about me at [marcolussetti.com](https://marcolussetti.com)
 - [extended-medgan](https://github.com/marcolussetti/extended-medgan): extension of prior work on generating synthetic patient records via GANNs. Work supervised by & co-authored by Piper Jackson
 - [simplemnistneuralnetwork](https://github.com/marcolussetti/simplemnistneuralnetwork), [simpleneuralenets](https://github.com/marcolussetti/simpleneuralnets), [mnist_tools](https://github.com/marcolussetti/mnist_tools): projects showcasing a dead simple neural network implementation in the Nim programming language
 
-:gear: What am I working on (personal projects)?
+:gear: What personal projects am I working on?
 
 - Telephone Pictionary / Broken Picture Telephone remake
 - General purpose Hidden Roles (Mafia/Werewolf-style) game engine
