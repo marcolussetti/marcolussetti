@@ -1,6 +1,6 @@
 # About Marco Lussetti
 
-Marco Lussetti is a developer and solutions architect currently working as the IT Solutions Architect for the [City of Kamloops](https://github.com/cityofkamloops) in British Columbia, Canada.
+I'm a developer currently working as the IT Solutions Architect for the [City of Kamloops](https://github.com/cityofkamloops) in British Columbia, Canada.
 
 You can find out more about me at [marcolussetti.com](https://marcolussetti.com).
 
