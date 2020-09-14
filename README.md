@@ -18,3 +18,4 @@ You can find out more about me at [marcolussetti.com](https://marcolussetti.com)
 :gear: What am I working on?
 
 - Telephone Pictionary / Broken Picture Telephone remake (personal project)
+- General purpose Hidden Roles (Mafia/Werewolf-style) game engine
