@@ -13,7 +13,6 @@ You can find out more about me at [marcolussetti.com](https://marcolussetti.com)
 :gear: What personal projects am I working on?
 
 - Telephone Pictionary / Broken Picture Telephone remake
-- General purpose Hidden Roles (Mafia/Werewolf-style) game engine
 
 :books: What am I reading/studying lately?
 
