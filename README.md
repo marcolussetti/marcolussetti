@@ -15,9 +15,10 @@ You can find out more about me at [marcolussetti.com](https://marcolussetti.com)
 - [githubcollaborators](https://github.com/marcolussetti/githubcollaborators): Report on collaborators in all of your repositories. pip/PyPI package.
 - [partygamepicker](https://github.com/hiddenroles/partygamepicker): Pick a random party game to play with your friends.
 - [outages project](https://github.com/outages): Track outages history for various providers as as JSON files ("git-scraping")
-  - [slack-outages](https://github.com/marcolussetti/slack-outages): Slack outages (IM platform)
-  - [shaw-outages](https://github.com/marcolussetti/shaw-outages): Shaw outages (Canadian telco)
-  - [bchydro-outages](https://github.com/marcolussetti/bchydro-outages): BCHydro outages (BC utility)
+  - [aws-outages](https://github.com/outages/aws-outages): AWS outages (Cloud computing platform)
+  - [slack-outages](https://github.com/outages/slack-outages): Slack outages (IM platform)
+  - [shaw-outages](https://github.com/outages/shaw-outages): Shaw outages (Canadian telco)
+  - [bchydro-outages](https://github.com/marcolusoutagessetti/bchydro-outages): BCHydro outages (BC utility)
 
 :gear: What personal projects am I working on?
 
