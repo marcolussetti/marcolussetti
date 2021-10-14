@@ -12,6 +12,7 @@ You can find out more about me at [marcolussetti.com](https://marcolussetti.com)
 
 :hammer: Other projects:
 
+- [hacktoberfest-detector](https://github.com/marcolussetti/hacktoberfest-detector): Firefox & Chrome Add-on to display whether a repository has enrolled in Hacktoberfest
 - [githubcollaborators](https://github.com/marcolussetti/githubcollaborators): Report on collaborators in all of your repositories. pip/PyPI package.
 - [partygamepicker](https://github.com/hiddenroles/partygamepicker): Pick a random party game to play with your friends.
 - [outages project](https://github.com/outages): Track outages history for various providers as as JSON files ("git-scraping")
