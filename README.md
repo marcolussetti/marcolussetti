@@ -1,10 +1,18 @@
 # About Marco Lussetti
 
-I'm a developer currently working as the IT Solutions Architect for the [City of Kamloops](https://github.com/cityofkamloops) in British Columbia, Canada.
+I'm a software developer & architect currently working as the Software and AI Technical Manager for the [City of Kamloops](https://github.com/cityofkamloops) in British Columbia, Canada.
+
+The projects and views expressed here are my own, and not my employer.
 
 You can find out more about me at [marcolussetti.com](https://marcolussetti.com).
 
-:mortar_board: Projects publicly featured primarily involve my undergraduate research work:
+:new: Some recent projects I am able to publicly share:
+
+- [dorothea](https://github.com/marcolussetti/dorothea): a static site generator for photography & photo essay based on [Exposé](https://github.com/Jack000/Expose)
+- [travel-advisories](https://github.com/marcolussetti/travel-advisories): track travel advisories for CA/US/UK/AU/IE
+
+
+:mortar_board: Some of my undergraduate research work:
 
 - [opendotadump-tools](https://github.com/marcolussetti/opendotadump-tools): tools & timeseries analysis on a large (1.2TB) dataset of Dota2 games. Work co-authored by Dyson Fraser
 - [extended-medgan](https://github.com/marcolussetti/extended-medgan): extension of prior work on generating synthetic patient records via GANNs. Work supervised by & co-authored by Piper Jackson
